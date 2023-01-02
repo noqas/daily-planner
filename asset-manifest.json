@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/daily-planner/static/css/main.c2cab247.css",
+    "main.js": "/daily-planner/static/js/main.2e773841.js",
+    "index.html": "/daily-planner/index.html",
+    "main.c2cab247.css.map": "/daily-planner/static/css/main.c2cab247.css.map",
+    "main.2e773841.js.map": "/daily-planner/static/js/main.2e773841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.2e773841.js"
+  ]
+}
